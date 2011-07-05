@@ -14,7 +14,7 @@ There is an allready existant , not free, not opensource app that looks like thi
 We need to know:
   * How do we make an app always on top?
   * How do we send events programaticaly to other app?
-     *http://stackoverflow.com/questions/1157603/programmatically-click-views-in-android
+     * http://stackoverflow.com/questions/1157603/programmatically-click-views-in-android
   * How do we know who app should receive the virtual event?
 
 
