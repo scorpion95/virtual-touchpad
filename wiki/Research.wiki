@@ -17,6 +17,7 @@ We need to know:
      * http://stackoverflow.com/questions/1157603/programmatically-click-views-in-android
   * How do we know who app should receive the virtual event?
 
+http://gamedev.stackexchange.com/questions/8704/understanding-motionevent-to-implement-a-virtual-dpad-and-buttons-on-android-mul
 
 Feel free to contact me with any link or example or desire to contribute.
 We are still strarting.
